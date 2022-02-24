@@ -22,7 +22,7 @@
 
 <br />
 
-[![Ronald's github stats](https://github-readme-stats.rparias.vercel.app/api?username=rparias&count_private=true&show_icons=true&theme=blue-green&hide_rank=false&hide=stars&include_all_commits=true)](https://github.com/rparias?tab=repositories)&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.rparias.vercel.app/api/top-langs/?username=rparias&layout=compact&langs_count=6&theme=blue-green)](https://github.com/rparias)
+[![Ronald's github stats](https://github-readme-stats.vercel.app/api?username=rparias&count_private=true&show_icons=true&theme=blue-green&hide_rank=false&hide=stars&include_all_commits=true)](https://github.com/rparias?tab=repositories)&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rparias&layout=compact&langs_count=6&theme=blue-green)](https://github.com/rparias)
 
 
 #### Find me on  
@@ -31,8 +31,3 @@
    <a href="https://www.linkedin.com/in/rparias/" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/linkedin%20rect.svg"></a>&nbsp;&nbsp;
  <a href="https://twitter.com/rparias_" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/twitter%20rect.svg"></a>&nbsp;&nbsp;
  </p>
-
-
-![build](https://github.com/rparias/rparias/blob/changes-to-readme/svg/badge.svg)
-![GitHub last commit](https://github.com/rparias/rparias/blob/master/svg/last%20commit.svg)
-![pv](https://pageview.vercel.app/?github_user=rparias)
