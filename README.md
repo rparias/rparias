@@ -11,6 +11,8 @@
 #### Languages and Tools 
 <p>
   <code><img height="25" src="https://raw.githubusercontent.com/rparias/rparias/main/svg/javascript.svg" alt="JavaScript"></code>
+  <code><img height="25" src="https://raw.githubusercontent.com/rparias/rparias/main/svg/react-2.svg" alt="React"></code>
+  <code><img height="25" src="https://raw.githubusercontent.com/rparias/rparias/main/svg/jest-seeklogo.com.svg" alt="Jest"></code>
   <code><img height="25" src="https://raw.githubusercontent.com/rparias/rparias/main/svg/css-3.svg" alt="CSS"></code>
   <code><img height="25" src="https://raw.githubusercontent.com/rparias/rparias/main/svg/html-5.svg" alt="HTML"></code>
   <code><img height="27" src="https://raw.githubusercontent.com/rparias/rparias/main/svg/java-4.svg" alt="java"></code>
