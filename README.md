@@ -10,13 +10,13 @@
 
 #### Languages and Tools 
 <p>
-  <code><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/javascript.svg" alt="JavaScript"></code>
-  <code><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/css-3.svg" alt="CSS"></code>
-  <code><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/html-5.svg" alt="HTML"></code>
-  <code><img height="27" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/java-4.svg" alt="java"></code>
-  <code><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/git-icon.svg" alt="git"></code>
-  <code><img height="22" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/terminal-1.svg" alt="terminal"></code>
-  <code><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/visual-studio-code-1.svg" alt="Visual Code Studio"></code>
+  <code><img height="25" src="https://raw.githubusercontent.com/rparias/rparias/main/svg/javascript.svg" alt="JavaScript"></code>
+  <code><img height="25" src="https://raw.githubusercontent.com/rparias/rparias/main/svg/css-3.svg" alt="CSS"></code>
+  <code><img height="25" src="https://raw.githubusercontent.com/rparias/rparias/main/svg/html-5.svg" alt="HTML"></code>
+  <code><img height="27" src="https://raw.githubusercontent.com/rparias/rparias/main/svg/java-4.svg" alt="java"></code>
+  <code><img height="25" src="https://raw.githubusercontent.com/rparias/rparias/main/svg/git-icon.svg" alt="git"></code>
+  <code><img height="22" src="https://raw.githubusercontent.com/rparias/rparias/main/svg/terminal-1.svg" alt="terminal"></code>
+  <code><img height="25" src="https://raw.githubusercontent.com/rparias/rparias/main/svg/visual-studio-code-1.svg" alt="Visual Code Studio"></code>
 
 </p>
 
@@ -28,6 +28,6 @@
 #### Find me on  
 
  <p align='left'>
-   <a href="https://www.linkedin.com/in/rparias/" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/linkedin%20rect.svg"></a>&nbsp;&nbsp;
- <a href="https://twitter.com/rparias_" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/twitter%20rect.svg"></a>&nbsp;&nbsp;
+   <a href="https://www.linkedin.com/in/rparias/" target="_blank"><img height="25" src="https://raw.githubusercontent.com/rparias/rparias/main/svg/linkedin-rect.svg"></a>&nbsp;&nbsp;
+ <a href="https://twitter.com/rparias_" target="_blank"><img height="25" src="https://raw.githubusercontent.com/rparias/rparias/main/svg/twitter-rect.svg"></a>&nbsp;&nbsp;
  </p>
