@@ -3,7 +3,7 @@
 <a href="https://github.com/rparias"><img align='right' src='https://raw.githubusercontent.com/rparias/rparias/main/svg/github-icon-moving.gif' width='150"'></a></h2>
 
 - 💻 I'm a Systems Engineer and Graphic Designer
-- 🏢 I’m currently working at [Thoughtworks](https://www.thoughtworks.com) 
+- 🏢 I’m currently working at [Globant](https://www.globant.com) 
 - ⭐ 2022's Objective: Contribute to open source <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - ⚡ I love programming, typography and frontend development.
 
