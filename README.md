@@ -6,6 +6,7 @@
 - 🏢 I’m currently working at [Globant](https://www.globant.com) 
 - ⭐ 2022's Objective: Contribute to open source <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - ⚡ I love programming, typography and frontend development.
+- 🤓 Work account: [@rarias-mdp](https://github.com/rarias-mdp)
 
 
 #### Languages and Tools 
