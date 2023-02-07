@@ -4,7 +4,7 @@
 
 - 💻 I'm a Systems Engineer and Graphic Designer
 - 🏢 I’m currently working at [Globant](https://www.globant.com) 
-- ⭐ 2022's Objective: Contribute to open source <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- ⭐ 2023's Objective: Contribute to open source <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - ⚡ I love programming, typography and frontend development.
 - 🤓 Work account: [@rarias-mdp](https://github.com/rarias-mdp)
 
@@ -25,7 +25,13 @@
 
 #### Work github account --> <a href="https://github.com/rarias-mdp" target="_blank" rel="noopener noreferrer">rarias-mdp</a>
 
-<br />
+#### Professional Portfolio:
+- [NYU Langone Giving](https://give.nyulangone.org/)
+- [Grainger](https://www.grainger.com/)
+- [Telus](https://www.telus.com/en/personal-health/livingwell-companion?linktype=ge-meganav&linkname=LivingWell_Companion)
+- [MagsForMiles](https://magsformiles.com/)
+
+#### Contributions:
 
 [![Ronald's github stats](https://github-readme-stats.vercel.app/api?username=rparias&count_private=true&show_icons=true&theme=blue-green&hide_rank=false&hide=stars&include_all_commits=true)](https://github.com/rparias?tab=repositories)&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rparias&layout=compact&langs_count=6&theme=blue-green)](https://github.com/rparias)
 
